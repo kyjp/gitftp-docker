@@ -25,7 +25,7 @@ git ftp push
 git ftp push -u uname -p uP@ssw0rd
 
 ## 使い方
-docker build -t ftp-server .
+docker-compose up -d
 
 
 ## ftpサーバ 接続
